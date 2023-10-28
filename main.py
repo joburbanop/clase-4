@@ -22,4 +22,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run("MTE2NTMyNzgyNDk0OTg3NDczOA.G80riD.5iiab4xVxFXwIuaCnkE62sJoo0i6pgZw2g4icM")
+client.run("nuevo Token")
